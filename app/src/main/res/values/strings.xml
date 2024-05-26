@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Coursity</string>
+    <string name="login">Login</string>
+    <string name="todo">TODO</string>
+    <string name="to">TODO</string>
+    <string name="are_you_new_user_resister">Are you new user?</string>
+    <string name="resister">Register</string>
+    <string name="finding_the_perfect_online_course_for_you">Finding the perfect online course for you</string>
+    <string name="textview">TextView</string>
+    <string name="_10">10$</string>
+    <string name="popular_courses">Popular courses</string>
+    <string name="see_all">See All</string>
+    <string name="explorar">Explorar</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="my_course">My course</string>
+    <string name="account">Account</string>
+    <string name="gaming">Gaming</string>
+    <string name="coding">Coding</string>
+    <string name="creative">Creative</string>
+    <string name="business">Business</string>
+    <string name="searching">Searching</string>
+    <string name="what_would_you_like_to_learn_today">What would you like to learn today</string>
+    <string name="select_quality">Title is</string>
+</resources>
